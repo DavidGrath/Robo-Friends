@@ -1,0 +1,8 @@
+.root {
+    background-color: lightgreen;
+    display: inline-block;
+    border-radius: .5rem;
+    padding: 1rem;
+    margin: .5rem;
+    backface-visibility: hidden;
+}
